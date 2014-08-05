@@ -8,4 +8,4 @@ This is a list of all the accounts relating to the LGM
 |g+      |https://plus.google.com/110964138103273662022/ |ale |julien |
 |ssh     | |ale, camille| |
 |facebook | |ale | |
-|mailing-lists | [lgm](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting-org), [lgm-org](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting-org) |ale | |
+|mailing-lists | [lgm](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting), [lgm-org](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting-org) |ale | |
