@@ -10,3 +10,4 @@ This is a list of all the accounts relating to the LGM
 |facebook | |ale | |
 |mailing-lists | [lgm](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting), [lgm-org](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting-org) |ale | |
 |titanpad |https://lgm.titanpad.com |ale, camille|all IT + some communication|
+|github |https://github.com/libregraphicsmeeting |ale |IT |
