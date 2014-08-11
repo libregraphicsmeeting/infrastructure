@@ -12,3 +12,4 @@ This is a list of all the accounts relating to the LGM
 |titanpad |https://lgm.titanpad.com |ale, camille|all IT + some communication|
 |github |https://github.com/libregraphicsmeeting |ale |IT |
 |youtube |https://www.youtube.com/user/LibreGraphicsMeeting/| g+| |
+|flickr |https://www.flickr.com/groups/libregfx/ | | |
