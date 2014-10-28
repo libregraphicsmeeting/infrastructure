@@ -13,6 +13,9 @@
 
 - `lgm_lgm` for the `lgm/` wordpress.
 - `lgm_20xx` for the current year's wordpress.
+- the username is the same as the name of the database
+- the address to the database is `sql` instead of `localhost` entrer: sql
+- more info: <http://faq.tuxfamily.org/DbMySQL/En>
 
 # How to get support
 
