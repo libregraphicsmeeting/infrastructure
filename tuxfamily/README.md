@@ -2,7 +2,7 @@
 
 - Each adminstrator has to create his/her own account and ask one of the existing adminstators for being added to `lgm` group
 - then you can connect yourself to `ssh.tuxfamily.org`
-- if you get a notice saying "This is a disabled shell account.", you need to log into tuxfamily.org, go into your account settings, and select the Shell type that fits your needs.
+- if you get a notice saying "This is a disabled shell account.", you need to log into http://tuxfamily.org, go into your account settings, and select the Shell type that fits your needs.
 
 # The website
 
