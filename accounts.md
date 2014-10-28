@@ -14,5 +14,5 @@ This is a list of all the accounts relating to the LGM
 |youtube |https://www.youtube.com/user/LibreGraphicsMeeting/| g+| |
 |flickr |https://www.flickr.com/groups/libregfx/ | | |
 |lgm.org domain name |http://verio.com |louis | |
-|lgm.org server |http://tuxfamily.org |ale| |
+|lgm.org server |http://tuxfamily.org |ale|manuel |
 |lgm.org server (old) |ssh:libregraphicsmeeting.org |ale| |
