@@ -16,3 +16,4 @@ This is a list of all the accounts relating to the LGM
 |lgm.org domain name |http://verio.com |louis | |
 |lgm.org server |http://tuxfamily.org |ale|manuel (greyscale) |
 |lgm.org server (old) |ssh:libregraphicsmeeting.org |ale| |
+|lgm.org dns |http://www.verio.com/ |ale, louis| |
