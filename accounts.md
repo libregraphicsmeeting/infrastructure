@@ -12,7 +12,7 @@ This is a list of all the accounts relating to the LGM
 |titanpad |https://lgm.titanpad.com |ale, camille|all IT + some communication|
 |github |https://github.com/libregraphicsmeeting |ale |IT |
 |youtube |https://www.youtube.com/user/LibreGraphicsMeeting/| g+| |
-|flickr |https://www.flickr.com/groups/libregfx/ | | |
+|flickr |https://www.flickr.com/groups/libregfx/ |manuel | |
 |lgm.org domain name |http://verio.com (acquired by ntt) |louis | |
 |lgm.org server |http://tuxfamily.org |ale|manuel (greyscale) |
 |lgm.org server (old) |ssh:libregraphicsmeeting.org |ale| |
