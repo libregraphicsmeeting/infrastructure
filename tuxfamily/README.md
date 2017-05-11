@@ -19,6 +19,10 @@ Setup a new wordpress instance:
 - [move the wordpress files in its own `wp/` directory](https://codex.wordpress.org/Giving_WordPress_Its_Own_Directory#Method_II_.28With_URL_change.29)
 - in the general settings, set the tagline
 - create a github repository for the theme.
+- install the usual plugins:
+  - LGM Sanitize Settings 2017
+  - WP Libre Form
+- copy over the forms
 
 ## The databases
 
