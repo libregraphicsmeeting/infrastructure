@@ -23,6 +23,7 @@ Setup a new wordpress instance:
   - LGM Sanitize Settings 2017
   - WP Libre Form
 - copy over the forms
+- define the usual sidebar widgets
 
 ## The databases
 
