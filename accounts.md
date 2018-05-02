@@ -17,4 +17,5 @@ This is a list of all the accounts relating to the LGM
 |lgm.org server |http://tuxfamily.org |ale|manuel (greyscale) |
 |lgm.org server (old) |ssh:libregraphicsmeeting.org |ale| |
 |lgm.org dns |http://www.verio.com/ |ale, louis| |
+|lgm org email | http://tuxfamily.org/ | imaps.tuxfamily.org | managed through the tuxfmaily control panel (accounts + forwards) |
 |irc |freenode.net/#lgm |ale |most of the scribus team |
