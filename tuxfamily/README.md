@@ -34,6 +34,18 @@ Setup a new wordpress instance:
 - the address to the database is `sql` instead of `localhost` entrer: sql
 - more info: <http://faq.tuxfamily.org/DbMySQL/En>
 
+## The download / static files area
+
+Here is the official how-to by tuxfamily:
+
+- https://faq.tuxfamily.org/Downloads/Fr
+- https://faq.tuxfamily.org/Downloads/En
+
+The shorter version:
+
+- You need a tuxfamily (panel) account to be able to upload files
+- You can upload files with sftp (username@ftp.tuxfamily.org) or wget them from your ssh session.
+
 # How to get support
 
 - go to the irc channel

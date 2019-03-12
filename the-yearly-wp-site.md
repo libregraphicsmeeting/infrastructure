@@ -21,3 +21,28 @@ Normally, the local team is in charge of the look and content of the website:
   - You can create it as a child of an existing theme.
 - Push it to the Github repository when it's ready. It will be automatically deployed on the live server.
   - Don't put any file outside of the `lgmYYYY? theme directory.
+
+## Archive the site as a static site
+
+After the LGM, we normally remove Wordpress and make the site static.
+
+```wget -r -np  http://
+
+### Troubleshooting
+
+- finding big directories:  
+  `du -h --max-depth=1`
+- finding big files:  
+  `ls -lhS`
+- if the links to the css and js are over http:  
+  `find . -type f -name "*.html" -exec sed -i 's/http:/https:/g' {} +`
+- if there are files ending in php:  
+  `rename 's/\.php/.html/' *.php`  
+  and add a `.htaccess` file:
+
+  ```
+    RewriteEngine on
+    RewriteCond %{THE_REQUEST} \ /(.+)\.php
+    RewriteRule ^ /%1.html [L,R=301] 
+  ```
+- wget creates js and css files with `?ver=...` at the end... just rename the files and remove the version.
