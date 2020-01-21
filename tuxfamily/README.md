@@ -46,7 +46,77 @@ The shorter version:
 - You need a tuxfamily (panel) account to be able to upload files
 - You can upload files with sftp (username@ftp.tuxfamily.org) or wget them from your ssh session.
 
-# How to get support
+## PHP and log errors
+
+By default, errors are not shown.
+
+- put `phpinfo()` in a file to discover which one is the current active `php.ini`
+- copy the current `php.ini` to your current directory
+
+  ```
+  cp /etc/php/7.3/cli/php.ini .
+  ```
+- add the line activating the error_log
+
+  ```
+  error_log = "${DOCUMENT_ROOT}/../php-include/2020/logs/php_errors.log"
+  ```
+
+  `php-include` is the only place outside of `htdocs` where you are allowed to write from php. create a directory with year in there, with a logs directory.
+- write a script that can show the content of the `php_errors.log` (you can make it world readable or add a (weak) password to it):
+
+  ```
+  <?php
+  $path_to_logs = dirname($_SERVER['DOCUMENT_ROOT']).'/php-include/2020/logs';
+  ?>
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <title>php errors</title>
+    </head>
+    <body>
+      <pre>
+      <?= file_get_contents($path_to_logs.'/php_errors.log'); ?>
+      </pre>
+    </body>
+  </html>
+  ```
+- don't forget  remove the custom `php.ini` when you're done with the debugging (otherwise there might be issues when php is upgraded).
+
+You can also put a password file in the logs directory and use it to protect the logs:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>title</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+  <body>
+<?php
+$path_to_logs = dirname($_SERVER['DOCUMENT_ROOT']).'/php-include/2020/logs';
+?>
+<?php if (array_key_exists('password', $_POST) && $_POST['password'] == trim(file_get_contents($path_to_logs.'/password-secret'))) : ?>
+<pre>
+<?php
+echo(file_get_contents($path_to_logs.'/php_errors.log'));
+?>
+</pre>
+<?php else: ?>
+<form method="post">
+<input type="password" name="password">
+<input type="submit" value="go">
+</form>
+<?php endif; ?>
+  </body>
+</html>
+```
+
+## How to get support
 
 - go to the irc channel
 - send an email to `modo at staff dot tuxfamily dot org`
+
