@@ -4,7 +4,8 @@ This is a list of all the accounts relating to the LGM
 
 |service         |url  |managers |members |
 |---             |---  |---      |---     |
-|twitter |[twitter.com/LGMeeting](https://twitter.com/LGMeeting) |ale |julien |
+|twitter |[twitter.com/LGMeeting](https://twitter.com/LGMeeting) |ale |julien, timothée |
+|mastodon|[lgm@post.lurk.org](https://post.lurk.org/@lgm)|julien | julien, timothée|
 |g+      |https://plus.google.com/110964138103273662022/ |ale |julien |
 |ssh     | |ale, camille| |
 |facebook | https://www.facebook.com/groups/libregraphicsmeeting |ale | |
