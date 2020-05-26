@@ -5,9 +5,8 @@ This is a list of all the accounts relating to the LGM
 |service         |url  |managers |members |
 |---             |---  |---      |---     |
 |twitter |[twitter.com/LGMeeting](https://twitter.com/LGMeeting) |ale |julien, timothée |
-|mastodon|[lgm@post.lurk.org](https://post.lurk.org/@lgm)|julien |timothée|
-|g+      |https://plus.google.com/110964138103273662022/ |ale |julien |
-|ssh     | |ale, camille| |
+|mastodon|[lgm@post.lurk.org](https://post.lurk.org/@lgm)|julien |timothée |
+|ssh     | |ale, camille |manuel |
 |facebook | https://www.facebook.com/groups/libregraphicsmeeting |ale | |
 |mailing-lists | [lgm](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting), [lgm-org](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting-org) |ale |  |
 |titanpad |https://lgm.titanpad.com |ale, camille|all IT + some communication|
