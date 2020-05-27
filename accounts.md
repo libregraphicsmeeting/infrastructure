@@ -5,12 +5,13 @@ This is a list of all the accounts relating to the LGM
 |service         |url  |managers |members |
 |---             |---  |---      |---     |
 |twitter |[twitter.com/LGMeeting](https://twitter.com/LGMeeting) |ale |julien, timothée |
-|mastodon|[lgm@post.lurk.org](https://post.lurk.org/@lgm)|julien |timothée |
+|mastodon|[lgm@post.lurk.org](https://post.lurk.org/@lgm)|julien |timothée, ale |
 |ssh     | |ale, camille |manuel |
 |facebook | https://www.facebook.com/groups/libregraphicsmeeting |ale | |
 |mailing-lists | [lgm](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting), [lgm-org](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting-org) |ale |  |
 |titanpad |https://lgm.titanpad.com |ale, camille|all IT + some communication|
 |github |https://github.com/libregraphicsmeeting |ale |IT |
+|peertube |https://conf.tube/accounts/lgm/video-channels |julien |ale |
 |youtube |https://www.youtube.com/user/LibreGraphicsMeeting/| g+| |
 |flickr |https://www.flickr.com/groups/libregfx/ |manuel | |
 |lgm.org domain name |http://verio.com (acquired by ntt) |louis | |
