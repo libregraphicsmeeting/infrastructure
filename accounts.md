@@ -20,5 +20,5 @@ This is a list of all the accounts relating to the LGM
 |lgm.org dns |http://www.verio.com/ |ale, louis| |
 |lgm org email | imaps.tuxfamily.org | ale | manuel |
 |irc |freenode.net/#lgm |ale |most of the scribus team |
-|matrix |https://matrix.to/#/#lgm:kde.org |ale |ale, lasse, KDE, seaLne (KDE); mirrored to irc |
+|matrix |https://matrix.to/#/#lgm:kde.org |ale, lasse, KDE, seaLne (KDE)  |mirrored to irc |
 
