@@ -6,7 +6,7 @@ The workshops have never (or mostly not) been recorded.
 
 # River Valley TV
 
-At the beginnings of the LGM, River Valley TV recorded the talks and published the result on their own platform.
+From 2007 to 2009 the LGM, River Valley TV recorded the talks and published the result on their own platform.
 
 Some of the recordings might still be available through <https://archive.org>: <http://river-valley.tv/>
 
