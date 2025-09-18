@@ -15,3 +15,14 @@
   - A _standard_ `gitlab-ci.yml` file failed to run:
     - https://invent.kde.org/aleri/htdocs-test/-/commit/11ab1d2f7deab02616bf6500d25aeb68012af603
     - https://invent.kde.org/aleri/htdocs-test/-/pipelines/1042388
+
+## User accounts on invent.kde.org
+
+- go to https://invent.kde.org
+- klick on "Sign in" in the top right corner
+- Follow the link to register and do so on he KDE Identity site
+- Sign In in the invent.kde.org site
+
+TODO:
+
+- How to join the LGM group on invent.kde (the group does not exist yet)
