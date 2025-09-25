@@ -26,3 +26,7 @@
 TODO:
 
 - How to join the LGM group on invent.kde (the group does not exist yet)
+
+## Migration of the repositories to the KDE infrastructure
+
+WIP: https://pads.ccc.de/FkxKd2nPwZ
