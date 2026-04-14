@@ -21,4 +21,5 @@ This is a list of all the accounts relating to the LGM
 |lgm org email | imaps.tuxfamily.org |ale |manuel |
 |irc |liberachat.net/#lgm |Animtim, ale |login + `OPER yourself` |
 |matrix |https://matrix.to/#/#lgm:kde.org |ale, lasse, KDE, seaLne (KDE)  |mirrored to irc |
+|peer.tube|lgm|ale|(will shutdown on 31.5.2026|
 
