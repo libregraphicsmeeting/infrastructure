@@ -11,7 +11,7 @@ This is a list of all the accounts relating to the LGM
 |mailing-lists | [lgm](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting), [lgm-org](http://lists.freedesktop.org/mailman/listinfo/libre-graphics-meeting-org) |ale |  |
 |titanpad |https://lgm.titanpad.com |ale, camille|all IT + some communication|
 |github |https://github.com/libregraphicsmeeting |ale |IT |
-|peertube |https://conf.tube/accounts/lgm/video-channels |julien |ale |
+|peer.tube |https://conf.tube/accounts/lgm/video-channels |julien |ale |
 |youtube |https://www.youtube.com/user/LibreGraphicsMeeting/| g+| |
 |flickr |https://www.flickr.com/groups/libregfx/ |manuel | |
 |lgm.org domain name |http://verio.com (acquired by ntt) |louis | |
@@ -21,5 +21,4 @@ This is a list of all the accounts relating to the LGM
 |lgm org email | imaps.tuxfamily.org |ale |manuel |
 |irc |liberachat.net/#lgm |Animtim, ale |login + `OPER yourself` |
 |matrix |https://matrix.to/#/#lgm:kde.org |ale, lasse, KDE, seaLne (KDE)  |mirrored to irc |
-|peer.tube|lgm|ale|(will shutdown on 31.5.2026|
 
